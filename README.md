@@ -17,3 +17,5 @@ User-Friendly Interface: Built with Streamlit, our web application is intuitive 
 **OpenAI GPT-4**: The state-of-the-art language model that drives the text analysis and generation capabilities.
 
 Thank you for checking out the AI-Powered Resume Parser and ATS Optimizer! We hope to empower job seekers with tools that enhance their chances of landing their dream jobs. Happy coding!
+
+<img width="927" height="572" alt="image" src="https://github.com/user-attachments/assets/ea63a2f8-603c-47d2-a426-d108441585f6" />
