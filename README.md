@@ -9,8 +9,11 @@ Powerful AI Integration: Leverage OpenAI's GPT-4 to process and generate high-qu
 User-Friendly Interface: Built with Streamlit, our web application is intuitive and easy to navigate, making it accessible for everyone.
 
 **Technologies Used** :
-This project is built using a combination of powerful technologies:
 
 **CrewAI**: A multi-agent AI framework allowing collaborative task execution, ensuring seamless extraction and optimization of resume content.
+
 **Streamlit**: A fast and user-friendly web application framework that powers the front-end of this solution.
+
 **OpenAI GPT-4**: The state-of-the-art language model that drives the text analysis and generation capabilities.
+
+Thank you for checking out the AI-Powered Resume Parser and ATS Optimizer! We hope to empower job seekers with tools that enhance their chances of landing their dream jobs. Happy coding!
